@@ -8,6 +8,7 @@ public final class EasyVoidGen extends JavaPlugin {
     @Override
     public void onEnable() {
         getLogger().info("Plugin started!");
+        getLogger().info("crysis hi"); //das ist meine änderung grade
 
     }
 

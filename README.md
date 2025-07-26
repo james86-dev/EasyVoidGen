@@ -21,7 +21,7 @@ worlds:
   world_the_end:
     generator: EasyVoidGen
 
----------------------------------------------------------
+Example:
 settings:
   allow-end: true
   warn-on-overload: true
@@ -55,5 +55,9 @@ ticks-per:
   autosave: 6000
 aliases: now-in-commands.yml
 worlds:
-  Aincrad:
+  world:
+    generator: EasyVoidGen
+  world_nether:
+    generator: EasyVoidGen
+  world_the_end:
     generator: EasyVoidGen

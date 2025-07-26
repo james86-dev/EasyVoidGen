@@ -1,0 +1,1 @@
+# Simple VoidGen for Minecraft

@@ -2,3 +2,4 @@ name: EasyVoidGen
 version: '1.0'
 main: io.github.james86dev.easyVoidGen.EasyVoidGen
 api-version: '1.21'
+load: STARTUP

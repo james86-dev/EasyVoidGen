@@ -21,8 +21,7 @@ worlds:
   world_the_end:
     generator: EasyVoidGen
 
-
------------------------------------------------------------
+---------------------------------------------------------
 settings:
   allow-end: true
   warn-on-overload: true
@@ -58,4 +57,3 @@ aliases: now-in-commands.yml
 worlds:
   Aincrad:
     generator: EasyVoidGen
------------------------------------------------------------

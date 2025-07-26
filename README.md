@@ -20,7 +20,10 @@ worlds:<br>
     generator: EasyVoidGen<br>
   world_the_end:<br>
     generator: EasyVoidGen<br>
-<br>
+
+<br><br>
+--------------------------------------------------------
+<br><br>
 Example:<br>
 settings:<br>
   allow-end: true<br>

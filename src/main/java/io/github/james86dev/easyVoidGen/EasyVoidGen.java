@@ -16,5 +16,6 @@ public final class EasyVoidGen extends JavaPlugin {
         getLogger().info("Plugin stopped!");
     }
     @Override
-    public VoidGen getDefaultWorldGenerator(@NotNull String worldName, String id) { return new VoidGen(); }
+    public VoidGen getDefaultWorldGenerator(@NotNull String worldName, String id) {
+        return new VoidGen(); }
 }
